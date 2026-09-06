@@ -75,7 +75,110 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA/Testing Lead
+
+### Role Summary
+QA/Testing Leads own quality assurance strategy and testing execution. They ensure features meet acceptance criteria and quality standards before release. They work closely with developers to identify and resolve defects early in the development cycle.
+
+### Responsibilities
+- Design and maintain test plans aligned with acceptance criteria
+- Execute manual and automated testing across environments
+- Validate quality gates before production release
+- Identify and triage bugs, work with developers on resolution
+- Contribute to Definition of Done requirements
+- Document test results and release readiness assessments
+
+### Goals
+- Catch defects early and prevent production issues
+- Ensure consistent user experience and product quality
+- Build confidence in release readiness
+
+### Typical Communication
+- Sprint planning and estimation discussions
+- Daily standups (progress and blocker reports)
+- QA sign-off in release checklists
+- Incident response when production issues occur
+
+---
+
+## Stakeholder/Sponsor
+
+### Role Summary
+Stakeholders and Sponsors provide business context, prioritization guidance, and approval authority. They represent customer needs, business constraints, and organizational priorities. They work with the Project Manager and Product Manager to ensure alignment and support project success.
+
+### Responsibilities
+- Articulate business problem and strategic alignment
+- Provide feedback on priorities and trade-offs
+- Approve project initiation and major decisions
+- Participate in milestone reviews and demos
+- Support communication and change management
+- Escalate organizational or business blockers
+
+### Goals
+- Ensure project delivers business value
+- Maintain alignment with organizational strategy
+- Reduce scope creep and misaligned priorities
+
+### Typical Communication
+- Project initiation and kickoff meetings
+- Monthly stakeholder updates and demos
+- Milestone decision gates (go/no-go decisions)
+- Ad-hoc escalation channels for high-impact risks
+
+---
+
+## Product Lead
+
+### Role Summary
+Product Leads own the product vision and strategic direction. They work closely with Product Managers on prioritization and ensure the roadmap aligns with customer needs and business goals. They provide strategic guidance and make high-level trade-off decisions across initiatives.
+
+### Responsibilities
+- Define product vision and long-term strategy
+- Guide Product Managers on roadmap prioritization
+- Make trade-off decisions between competing initiatives
+- Review and approve acceptance criteria and success metrics
+- Escalate dependencies and cross-team blockers
+- Communicate product direction to leadership and stakeholders
+
+### Goals
+- Ensure cohesive product strategy and consistent direction
+- Prioritize high-impact work over tactical demands
+- Maintain focus on customer and business outcomes
+
+### Typical Communication
+- Weekly sync with Product Managers
+- Project planning and scope reviews
+- Escalation path for prioritization conflicts
+- Quarterly strategy and roadmap updates
+
+---
+
+## Technical Lead / Architect
+
+### Role Summary
+Technical Leads/Architects define technical direction, identify architectural risks, and guide implementation decisions. They ensure solutions are scalable, maintainable, and aligned with technical standards. They mentor developers and contribute to technical risk management.
+
+### Responsibilities
+- Design technical solutions and architecture
+- Review design decisions for scalability and risk
+- Identify technical dependencies and integration points
+- Guide code quality and testing standards
+- Mentor developers and conduct code reviews
+- Contribute to risk identification and mitigation planning
+
+### Goals
+- Deliver technically sound, maintainable solutions
+- Reduce technical debt and architectural risks
+- Accelerate team productivity through clear technical direction
+
+### Typical Communication
+- Technical design reviews and architecture discussions
+- Sprint planning and estimation (as technical expert)
+- Code reviews and design feedback
+- Risk register reviews (technical risks) in weekly syncs
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
